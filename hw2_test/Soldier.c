@@ -1,3 +1,6 @@
+#include <string.h>
+#include <stdio.h>
+#include <stdlib.h>
 #include "Soldier.h"
 
 typedef struct Soldier_t {
@@ -48,7 +51,7 @@ void Soldier_Print(PSOLDIER sold)
 		printf(ARG_ERR_MSG);
 		return;
 	}
-	printf()
+	printf("%s , %s\n");
 }
 PSOLDIER Soldier_Duplicate(PSOLDIER Soldier) {
 	if (Soldier == NULL) {

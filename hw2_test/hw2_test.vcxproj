@@ -125,7 +125,6 @@
     <ClCompile Include="Soldier.c" />
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\hw2 mamat\hw2mamat\hw2mamat\final 15.5.18\User.c" />
     <ClCompile Include="..\given files\for students\APC.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

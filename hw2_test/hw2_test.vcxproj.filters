@@ -32,9 +32,6 @@
     <ClCompile Include="..\given files\for students\APC.c">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\hw2 mamat\hw2mamat\hw2mamat\final 15.5.18\User.c">
-      <Filter>Source Files</Filter>
-    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Soldier.c">
