@@ -1,4 +1,4 @@
 #pragma once
-no one
+new one 
 ofry is kings
 int niki is king
