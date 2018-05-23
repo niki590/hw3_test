@@ -1,1 +1,2 @@
-typedef enum {FAILURE, SUCCESS};
+#include "defs.h"
+
