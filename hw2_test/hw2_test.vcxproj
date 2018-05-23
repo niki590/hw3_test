@@ -115,8 +115,15 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="..\..\hw2 mamat\hw2mamat\hw2mamat\final 15.5.18\User.h" />
+    <ClInclude Include="..\given files\for students\APC.h" />
+    <ClInclude Include="..\given files\for students\defs.h" />
     <ClInclude Include="check.h" />
     <ClInclude Include="List.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\hw2 mamat\hw2mamat\hw2mamat\final 15.5.18\User.c" />
+    <ClCompile Include="..\given files\for students\APC.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
