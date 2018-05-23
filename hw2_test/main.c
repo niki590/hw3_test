@@ -8,5 +8,5 @@ int main()
 {
 	char * a = "hi";
 	char * b = "you";
-	printf(a,b);
+	printf("%s , %s ",a,b);
 }

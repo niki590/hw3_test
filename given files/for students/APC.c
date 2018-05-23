@@ -1,5 +1,5 @@
-#include "Soldier.h"
 #include "APC.h"
+#include "Soldier.h"
 
 typedef struct APC_t {
 	char* ID;
@@ -11,7 +11,8 @@ PAPC  APC_Create(char* ID)
 
 }
 
-void APC_Print(PAPC APC) {
+void APC_Print(PAPC APC) 
+{
 	if (APC == NULL) {
 		printf(ARG_ERR_MSG);
 		return;

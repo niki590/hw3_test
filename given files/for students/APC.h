@@ -2,7 +2,7 @@
 #define _APC_h
 #include "Soldier.h"
 #include "defs.h"
-
+#include "soldier.h"
 
 typedef struct APC_t* PAPC;
 PAPC  APC_Create(char* ID);
