@@ -1,15 +1,12 @@
-#include "Soldier.h"
 #include "APC.h"
+#include "Soldier.h"
 
 typedef struct APC_t {
 	char* ID;
-	PSOLDIER soldier_roster[APC_MAX_Soldiers];	
+	PSOLDIER[APC_MAX_Soldiers] soldier_roster;	
 }APC;
 
-PAPC  APC_Create(char* ID)
-{
-
-}
+PAPC  APC_Create(char* ID);
 
 void APC_Print(PAPC APC) {
 	if (APC == NULL) {
