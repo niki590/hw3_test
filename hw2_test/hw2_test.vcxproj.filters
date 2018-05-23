@@ -27,12 +27,6 @@
     <ClInclude Include="..\given files\for students\APC.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\given files\for students\defs.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
-    <ClInclude Include="..\..\hw2 mamat\hw2mamat\hw2mamat\final 15.5.18\User.h">
-      <Filter>Header Files</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="..\given files\for students\APC.c">

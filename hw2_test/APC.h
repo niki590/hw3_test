@@ -2,7 +2,6 @@
 #define _APC_h
 
 #include "defs.h"
-#include "soldier.h"
 
 typedef struct APC_t APC;
 typedef struct APC_t* PAPC;

@@ -115,6 +115,7 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="..\given files\for students\APC.h" />
     <ClInclude Include="defs.h" />
     <ClInclude Include="List.h" />
     <ClInclude Include="Soldier.h" />
